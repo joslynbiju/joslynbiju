@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Data Scientist driven by curiosity and innovation. I have a deep expertise in data analysis, machine learning and algorithm development. 
-I'm keen on crafting and designing intelligent AI models that solve complex business problems. With a strong foundation in stattistical analysis and data analysis, 
+I'm keen on crafting and designing intelligent AI models that solve complex business problems. With a strong foundation in statistical analysis and data analysis, 
 I aim in transforming data into meaningful insights. 
 
 ##  Current Projects

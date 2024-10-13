@@ -48,6 +48,6 @@ I aim in transforming data into meaningful insights.
 - **BSc in Mathematics**  
   *Union Christian College, Aluva* (2020 - 2023)
 
-🔗 **Feel free to reach out if you have any questions about my projects or would like to explore potential collaborations**
-**Connect with me**:
+🔗 **Feel free to reach out if you have any questions about my projects or would like to explore potential collaborations.**
+**Connect with me at**:
 [LinkedIn](https://linkedin.com/in/joslyn-biju) | [GitHub](https://github.com/joslynbiju) | joslynbiju03@gmail.com

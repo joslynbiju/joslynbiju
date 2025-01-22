@@ -37,8 +37,8 @@ I aim in transforming data into meaningful insights.
 
 ### Junior Developer (Intern) at Kuwait Food Company (Americana Restaurants International), UAE 
 *(May 2024 - Present)*
-- Developed an AI-driven video analytics system reducing fraud detection time by 40%.
-- Applied data science techniques for video footage analysis, improving fraud detection rate by 30% and reducing operational costs by 20%.
+- Developed an AI-driven video analytics system using Python, machine learning, and API integration, enhancing operational efficiency and accuracy.
+- Applied data science techniques for video footage analysis and leveraged SQL for large dataset management and streamlined operational processes, improving efficiency and accuracy.
 
 ##  Education
 
